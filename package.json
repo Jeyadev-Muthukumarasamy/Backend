@@ -1,0 +1,15 @@
+{
+  "name": "11.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utls.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
